@@ -1,6 +1,6 @@
 {
     "name": "eslint-plugin-enforce-children",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "An ESLint plugin to enforce custom parent/child constraints in JSX.",
     "author": "Hamik Hambardzumyan <hamikhambardumyan25@gmail.com> (https://github.com/Hamik25/)",
     "contributors": [
